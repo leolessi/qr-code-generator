@@ -6,5 +6,7 @@ Baseado na biblioteca: https://github.com/lincolnloop/python-qrcode
 
 Observações
 - Requer a biblioteca `qrcode` (python-qrcode). Instale com:
-  python -m pip install qrcode[pil]
+```bash
+  python -m pip install qrcode
+```
 - Projeto educativo/demonstração; adapte conforme achar necessário.
